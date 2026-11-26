@@ -1,3 +1,5 @@
+> **Moved.** This project now lives in [d3dcrypted/llmops](https://github.com/d3dcrypted/llmops), in the [`rag-pipeline/`](https://github.com/d3dcrypted/llmops/tree/main/rag-pipeline) directory, together with the rest of the stack. This repository is archived and stays readable.
+
 # LLMOps RAG Pipeline
 
 A small, transparent retrieval-augmented generation reference implementation. The first milestone covers deterministic ingestion, chunking, retrieval and citations behind testable interfaces; no framework abstraction yet.
